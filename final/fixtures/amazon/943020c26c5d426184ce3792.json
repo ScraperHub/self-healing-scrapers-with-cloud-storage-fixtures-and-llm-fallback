@@ -1,0 +1,162 @@
+{
+  "name": "Refactoring: Improving the Design of Existing Code (2nd Edition) (Addison-Wesley Signature Series (Fowler))",
+  "price": "$45.13",
+  "originalPrice": "$65.99",
+  "rawPrice": 45.13,
+  "currency": "$",
+  "canonicalUrl": "https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599",
+  "soldBy": {
+    "sellerID": "",
+    "name": "Amazon.com Amazon.com Shipper / Seller Amazon.com",
+    "link": "https://www.amazon.com"
+  },
+  "deliveredBy": "Saturday, November 21",
+  "parentAsin": [
+    "B07C2SVSZ4"
+  ],
+  "asinVariationValues": [],
+  "isPrime": true,
+  "inStock": true,
+  "maximumQuantity": "30",
+  "stockDetail": "In Stock",
+  "couponInfo": "",
+  "dealBadge": "",
+  "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41Ry%20%20if2gL.jpg",
+  "images": [
+    "https://images-na.ssl-images-amazon.com/images/I/41e3-Z8IIoL.jpg",
+    "https://m.media-amazon.com/images/I/41NGkWGyhKL._SX35_SY46.jpg"
+  ],
+  "imagesCount": 3,
+  "highResolutionImages": [
+    "https://m.media-amazon.com/images/I/71vEr0oyt-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71MQRy0Rj4L._SL1500_.jpg"
+  ],
+  "videos": [
+    "blob:https://www.amazon.com/75f7207d-87db-4180-9232-37a43cadd475"
+  ],
+  "videosCount": 1,
+  "productGuidesAndDocuments": {
+    "productDocumentationLink": "",
+    "userManualLink": ""
+  },
+  "byLineInfo": {
+    "name": "Martin Fowler",
+    "link": "https://www.amazon.com/Martin-Fowler/e/B000AQ6PGM/ref=dp_byline_cont_book_1"
+  },
+  "brand": "",
+  "merchantInfo": "Ships from and sold by GoodwillBooks.",
+  "customerReview": "4.7 out of 5 stars",
+  "customerReviewCount": 1232,
+  "boughtInfo": "",
+  "answeredQuestionsCount": 0,
+  "editorialReviews": [
+    "Editorial Reviews About the Author Martin Fowler is Chief Scientist at ThoughtWorks. He describes himself as \u201can author, speaker, consultant and general loud-mouth on software development.\u201d Fowler concentrates on designing enterprise software: exploring what makes a good design and what practices are needed to create one."
+  ],
+  "warrantyMessage": "",
+  "shippingMessage": "",
+  "deliveryMessages": [
+    "FREE delivery Saturday, November 21",
+    "FREE delivery Saturday, November 21",
+    "Or Prime members get FREE delivery Today 2 PM - 6 PM. Order within 2 hrs 19 mins. Join Prime",
+    "$3.99 delivery Monday, November 23",
+    "$3.99 delivery Monday, November 23. Order within 6 hrs 29 mins."
+  ],
+  "climatePledgeFriendly": {
+    "present": false,
+    "details": ""
+  },
+  "features": "",
+  "classifiedFacts": [],
+  "description": "\"Whenever you read [Refactoring], it\u2019s time to read it again. And if you haven\u2019t read it yet, please do before writing another line of code.\" \u2013David Heinemeier Hansson, Creator of Ruby on Rails, Founder & CTO at Basecamp Fully Revised and Updated\u2014Includes New Refactoring's and Code Examples\u201cAny fool can write code that a computer can understand. Good programmers write code that humans can understand.\u201d \u2013M. Fowler (1999)For more than twenty years, experienced programmers worldwide have relied on Martin Fowler\u2019s Refactoring to improve the design of existing code and to enhance software maintainability, as well as to make existing code easier to understand. This eagerly awaited new edition has been fully updated to reflect crucial changes in the programming landscape. Refactoring, Second Edition, features an updated catalog of refactoring's and includes JavaScript code examples, as well as new functional examples that demonstrate refactoring without classes. Like the original, this edition explains what refactoring is; why you should refactor; how to recognize code that needs refactoring; and how to actually do it successfully, no matter what language you use.Understand the process and general principles of refactoringQuickly apply useful refactorings to make a program easier to comprehend and changeRecognize \u201cbad smells\u201d in code that signal opportunities to refactorExplore the refactorings, each with explanations, motivation, mechanics, and simple examplesBuild solid tests for your refactoringsRecognize tradeoffs and obstacles to refactoringIncludes free access to the canonical web edition, with even more refactoring resources. (See inside the book for details about how to access the web edition.) Read more",
+  "breadCrumbs": [
+    {
+      "name": "Books",
+      "link": "https://www.amazon.com/books-used-books-textbooks/b/ref=dp_bc_1?ie=UTF8&node=283155"
+    },
+    {
+      "name": "Computers & Technology",
+      "link": "https://www.amazon.com/Computers-Technology-Books/b/ref=dp_bc_2?ie=UTF8&node=5"
+    },
+    {
+      "name": "Programming",
+      "link": "https://www.amazon.com/Programming-Computers-Internet-Books/b/ref=dp_bc_3?ie=UTF8&node=3839"
+    },
+    {
+      "name": "Software Design, Testing & Engineering",
+      "link": "https://www.amazon.com/Software-Design-Programming-Books/b/ref=dp_bc_4?ie=UTF8&node=4011"
+    },
+    {
+      "name": "Object-Oriented Design",
+      "link": "https://www.amazon.com/Object-Oriented-Design-Software-Programming-Books/b/ref=dp_bc_5?ie=UTF8&node=4013"
+    }
+  ],
+  "productInformation": [
+    {
+      "name": "Publisher \u200f",
+      "value": "\u200e Addison-Wesley Professional"
+    },
+    {
+      "name": "Publication date \u200f",
+      "value": "\u200e November 30, 2018"
+    },
+    {
+      "name": "Edition \u200f",
+      "value": "\u200e 2nd"
+    },
+    {
+      "name": "Language \u200f",
+      "value": "\u200e English"
+    },
+    {
+      "name": "Print length \u200f",
+      "value": "\u200e 448 pages"
+    },
+    {
+      "name": "ISBN-10 \u200f",
+      "value": "\u200e 0134757599"
+    },
+    {
+      "name": "ISBN-13 \u200f",
+      "value": "\u200e 978-0134757599"
+    },
+    {
+      "name": "Item Weight \u200f",
+      "value": "\u200e 7.4 ounces"
+    },
+    {
+      "name": "Dimensions \u200f",
+      "value": "\u200e 0.8 x 7.4 x 9.2 inches"
+    },
+    {
+      "name": "Part of series \u200f",
+      "value": "\u200e Addison-Wesley Signatures (Fowler)"
+    },
+    {
+      "name": "Best Sellers Rank",
+      "value": "#67,686 in Books (See Top 100 in Books) #7 in Object-Oriented Software Design #10 in Object-Oriented Design #16 in Software Design & Engineering"
+    },
+    {
+      "name": "Customer Reviews",
+      "value": "4.7 4.7 out of 5 stars (1,232)"
+    }
+  ],
+  "manufacturerProductDescription": [
+    "Refactoring is... a disciplined way to clean up code that minimizes the chances of introducing bugs. Although it is focused on the code, refactoring has a large impact on the design of systems. It is vital for senior designers and architects, as well as professional programmers, to understand the principles of refactoring and to use them in their projects."
+  ],
+  "manufacturerProductImages": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5fa2b058-7f85-4b16-9196-3a28a9806125.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+  ],
+  "sponsoredAds": [],
+  "productReviewBottom": [],
+  "productReviewTop": {
+    "5 star": "80%",
+    "4 star": "14%",
+    "3 star": "4%",
+    "2 star": "1%",
+    "1 star": "1%"
+  },
+  "reviews": [],
+  "otherSellers": [],
+  "brandVideo": "blob:https://www.amazon.com/75f7207d-87db-4180-9232-37a43cadd475",
+  "otherVideos": []
+}

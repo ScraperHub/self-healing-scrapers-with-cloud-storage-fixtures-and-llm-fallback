@@ -1,0 +1,16 @@
+{
+  "fixtures": [
+    {
+      "rid": "tree-runner",
+      "site": "allbirds",
+      "url": "https://www.allbirds.com/products/mens-tree-runners",
+      "html": "fixtures/tree-runner.html"
+    },
+    {
+      "rid": "wool-runner",
+      "site": "allbirds",
+      "url": "https://www.allbirds.com/products/mens-wool-runners",
+      "html": "fixtures/wool-runner.html"
+    }
+  ]
+}

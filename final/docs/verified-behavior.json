@@ -1,0 +1,12 @@
+{
+  "scraper_response_kind": "json",
+  "stored_kind": "json",
+  "first_rid_after_recrawl": "still readable, kind=html, stored_at=2026-11-16T13:58:53+00:00",
+  "url_lookup_matches_second": true,
+  "methods": [
+    "StorageClient.get_by_rid succeeded",
+    "rids returned 5 ids",
+    "totalCount=40",
+    "bulk returned 1 pages, kind=html"
+  ]
+}

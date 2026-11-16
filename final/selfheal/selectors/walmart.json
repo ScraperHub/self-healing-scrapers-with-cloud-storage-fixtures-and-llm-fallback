@@ -1,0 +1,7 @@
+{
+  "title": "h1[itemprop='name']",
+  "price": "[itemprop='price']",
+  "availability": "[data-testid='fulfillment-badge']",
+  "brand": "[itemprop='brand']",
+  "sku": "[itemprop='sku']"
+}

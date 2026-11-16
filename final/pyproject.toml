@@ -1,0 +1,75 @@
+[project]
+name = "selfheal"
+version = "0.1.0"
+description = "Tiered self-healing scrapers with drift detection, selector repair, and storage replay tests."
+requires-python = ">=3.11"
+dependencies = [
+    "crawlbase>=1.0.0",
+    "openai>=1.50",
+    "pydantic>=2.7",
+    "python-dotenv>=1.0",
+    "selectolax>=0.3.21",
+]
+
+[project.optional-dependencies]
+dev = [
+    "mypy>=1.11",
+    "pytest>=8.2",
+    "pytest-cov>=5.0",
+    "ruff>=0.6",
+]
+
+[project.scripts]
+selfheal = "selfheal.pipeline:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["selfheal*"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+src = ["selfheal", "tests", "scripts"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/*.py" = ["E402"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = [
+    "live: calls Crawlbase and OpenAI",
+    "replay: replays mirrored fixtures",
+]
+addopts = "-q"
+
+[tool.coverage.run]
+source = ["selfheal"]
+omit = ["selfheal/__main__.py"]
+
+[tool.coverage.report]
+fail_under = 85
+show_missing = true
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+packages = ["selfheal"]
+mypy_path = "."
+
+[[tool.mypy.overrides]]
+module = [
+    "crawlbase",
+    "crawlbase.*",
+    "openai",
+    "openai.*",
+    "selectolax",
+    "selectolax.*",
+]
+ignore_missing_imports = true

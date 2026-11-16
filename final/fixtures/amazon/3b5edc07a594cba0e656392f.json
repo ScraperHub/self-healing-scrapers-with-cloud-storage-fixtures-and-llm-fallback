@@ -1,0 +1,152 @@
+{
+  "name": "Effective Java",
+  "price": "$39.99",
+  "originalPrice": "$59.99",
+  "rawPrice": 39.99,
+  "currency": "$",
+  "canonicalUrl": "https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997",
+  "soldBy": {
+    "sellerID": "A1RGI1PJ832T6V",
+    "name": "Chiya Group",
+    "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1RGI1PJ832T6V&asin=0134685997&ref_=dp_merchant_link&isAmazonFulfilled=1"
+  },
+  "deliveredBy": "November 30 - December 4",
+  "parentAsin": [
+    "B0CXBPQRXL"
+  ],
+  "asinVariationValues": [],
+  "isPrime": true,
+  "inStock": true,
+  "maximumQuantity": "",
+  "stockDetail": "Only 1 left in stock - order soon.",
+  "couponInfo": "",
+  "dealBadge": "",
+  "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41hog456AiL.jpg",
+  "images": [
+    "https://images-na.ssl-images-amazon.com/images/I/412F4m2s41L.jpg",
+    "https://m.media-amazon.com/images/I/410HDE%209cOL._SX35_SY46.jpg"
+  ],
+  "imagesCount": 3,
+  "highResolutionImages": [
+    "https://m.media-amazon.com/images/I/81LUCOFv6PL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71O9be7FsaL._SL1500_.jpg"
+  ],
+  "videos": [],
+  "videosCount": 0,
+  "productGuidesAndDocuments": {
+    "productDocumentationLink": "",
+    "userManualLink": ""
+  },
+  "byLineInfo": {
+    "name": "Joshua Bloch",
+    "link": "https://www.amazon.com/Joshua-Bloch/e/B001CDCVUG/ref=dp_byline_cont_book_1"
+  },
+  "brand": "",
+  "merchantInfo": "Ships from and sold by GREENWORLD BOOKS.",
+  "customerReview": "4.7 out of 5 stars",
+  "customerReviewCount": 1630,
+  "boughtInfo": "",
+  "answeredQuestionsCount": 0,
+  "editorialReviews": [
+    "Editorial Reviews About the Author Joshua Bloch is a professor at Carnegie Mellon University. He was formerly the chief Java architect at Google, a distinguished engineer at Sun Microsystems, and a senior systems designer at Transarc. He led the design and implementation of numerous Java platform features, including the JDK 5.0 language enhancements and the Java Collections Framework. He holds a Ph.D. in computer science from Carnegie Mellon University and a B.S. in computer science from Columbia University."
+  ],
+  "warrantyMessage": "",
+  "shippingMessage": "",
+  "deliveryMessages": [
+    "FREE delivery November 30 - December 4",
+    "FREE delivery November 30 - December 4",
+    "Or fastest delivery November 30 - December 2",
+    "FREE delivery November 23 - 25",
+    "FREE delivery November 23 - 25."
+  ],
+  "climatePledgeFriendly": {
+    "present": false,
+    "details": ""
+  },
+  "features": "",
+  "classifiedFacts": [],
+  "description": "Since this Jolt-award winning classic was last updated in 2008, the Java programming environment has changed dramatically. Java 7 and Java 8 introduced new features and functions including, forEach() method in Iterable interface, default and static methods in Interfaces, Functional Interfaces and Lambda Expressions, Java Stream API for Bulk Data Operations on Collections, Java Time API, Collection API improvements, Concurrency API improvements, and Java IO improvements.In this new edition of Effective Java, Bloch explores new design patterns and language idioms that have been introduced since the second edition was released in 2008 shortly after Java SE6, including Lambda, streams, generics and collections, as well as selected Java 9 features. As in previous editions, each chapter consists of several \u201citems\u201d presented in the form of a short, standalone essay that provides specific advice, insight into Java platform subtleties, and updated code examples. The comprehensive descriptions and explanations for each item illuminate what to do, what not to do, and why. Updated techniques and best practices on classic topics, including objects, classes, libraries, methods, and serialization How to avoid the traps and pitfalls of commonly misunderstood subtleties of the language Focus on the language and its most fundamental libraries: java.lang, java.util, and, to a lesser extent, java.util.concurrent and java.io Read more",
+  "breadCrumbs": [
+    {
+      "name": "Books",
+      "link": "https://www.amazon.com/books-used-books-textbooks/b/ref=dp_bc_1?ie=UTF8&node=283155"
+    },
+    {
+      "name": "Computers & Technology",
+      "link": "https://www.amazon.com/Computers-Technology-Books/b/ref=dp_bc_2?ie=UTF8&node=5"
+    },
+    {
+      "name": "Programming Languages",
+      "link": "https://www.amazon.com/Languages-Tools-Programming-Books/b/ref=dp_bc_3?ie=UTF8&node=3952"
+    },
+    {
+      "name": "Java",
+      "link": "https://www.amazon.com/Java-Programming-Computers-Internet-Books/b/ref=dp_bc_4?ie=UTF8&node=3608"
+    }
+  ],
+  "productInformation": [
+    {
+      "name": "Publisher \u200f",
+      "value": "\u200e Addison-Wesley Professional"
+    },
+    {
+      "name": "Publication date \u200f",
+      "value": "\u200e December 27, 2017"
+    },
+    {
+      "name": "Edition \u200f",
+      "value": "\u200e 3rd"
+    },
+    {
+      "name": "Language \u200f",
+      "value": "\u200e English"
+    },
+    {
+      "name": "Print length \u200f",
+      "value": "\u200e 416 pages"
+    },
+    {
+      "name": "ISBN-10 \u200f",
+      "value": "\u200e 0134685997"
+    },
+    {
+      "name": "ISBN-13 \u200f",
+      "value": "\u200e 978-0134685991"
+    },
+    {
+      "name": "Item Weight \u200f",
+      "value": "\u200e 1.5 pounds"
+    },
+    {
+      "name": "Dimensions \u200f",
+      "value": "\u200e 7.4 x 0.9 x 9 inches"
+    },
+    {
+      "name": "Best Sellers Rank",
+      "value": "#123,960 in Books (See Top 100 in Books) #5 in Java Programming #108 in Computer Programming Languages #555 in Education (Books)"
+    },
+    {
+      "name": "Customer Reviews",
+      "value": "4.7 4.7 out of 5 stars (1,630)"
+    }
+  ],
+  "manufacturerProductDescription": [
+    "The #1 Book on Java Programming, Most Recommended by Java Programmers \"The book is supremely readable: the style is concise and clear, and the code examples are short and to the point. As a result, Effective Java is a pleasant volume to read through from beginning to end\u2014learning to refine your coding skills as you go. It is one of the very few books I recommend without reservation to all Java programmers who are past the beginner stage.\" \u2014 Andrew Binstock, Java Magazine \"Joshua Bloch does an amazing job explaining best practices and providing detailed insights into how and when to use the different Java features. Effective Java is a must-read for every professional Java developer.\" \u2014 Thorben Janssen \"I\u2019ve been using Java for almost a year now and this book definitely enhanced my understanding on the language and how to use its features more efficiently.\" \u2014 Lucas Pavesi Da Cruz"
+  ],
+  "manufacturerProductImages": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de4f3845-d062-4e60-bfa1-2beadbcb4680.__CR276,0,1047,1047_PT0_SX300_V1___.png"
+  ],
+  "sponsoredAds": [],
+  "productReviewBottom": [],
+  "productReviewTop": {
+    "5 star": "84%",
+    "4 star": "11%",
+    "3 star": "2%",
+    "2 star": "1%",
+    "1 star": "2%"
+  },
+  "reviews": [],
+  "otherSellers": [],
+  "brandVideo": "",
+  "otherVideos": []
+}

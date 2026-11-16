@@ -1,0 +1,8 @@
+{
+  "title": "h1.font-serif",
+  "price": "span.text-red",
+  "currency": "meta[property='og:price:currency']",
+  "availability": "[data-testid='pdp-atc-button']",
+  "brand": "meta[property='og:site_name']",
+  "sku": "[data-yotpo-product-id]"
+}

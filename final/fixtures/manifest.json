@@ -1,0 +1,169 @@
+{
+  "fixtures": [
+    {
+      "rid": "51470e82e91af2325c103a7b",
+      "site": "amazon",
+      "url": "https://www.amazon.com/dp/B0CHX2XFLN",
+      "html": "amazon/51470e82e91af2325c103a7b.html",
+      "scraper_json": "amazon/51470e82e91af2325c103a7b.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "bfb664e539255874024e8eb7",
+      "site": "amazon",
+      "url": "https://www.amazon.com/dp/0132350882",
+      "html": "amazon/bfb664e539255874024e8eb7.html",
+      "scraper_json": "amazon/bfb664e539255874024e8eb7.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "f9ba4722246516045d52bf80",
+      "site": "amazon",
+      "url": "https://www.amazon.com/dp/0201633612",
+      "html": "amazon/f9ba4722246516045d52bf80.html",
+      "scraper_json": "amazon/f9ba4722246516045d52bf80.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "2839c91f1b4d6a6839bd0f87",
+      "site": "walmart",
+      "url": "https://www.walmart.com/ip/3551794083",
+      "html": "walmart/2839c91f1b4d6a6839bd0f87.html",
+      "scraper_json": "walmart/2839c91f1b4d6a6839bd0f87.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "3df19c5cd2bb386638d95720",
+      "site": "walmart",
+      "url": "https://www.walmart.com/ip/10450114",
+      "html": "walmart/3df19c5cd2bb386638d95720.html",
+      "scraper_json": "walmart/3df19c5cd2bb386638d95720.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "f90a7d1774f4ad98a9664935",
+      "site": "allbirds",
+      "url": "https://www.allbirds.com/products/mens-tree-runners",
+      "html": "allbirds/f90a7d1774f4ad98a9664935.html",
+      "scraper_json": null,
+      "generic_json": "allbirds/f90a7d1774f4ad98a9664935.json",
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "7db4f40f580b45dfbdc7765d",
+      "site": "allbirds",
+      "url": "https://www.allbirds.com/products/womens-tree-runners",
+      "html": "allbirds/7db4f40f580b45dfbdc7765d.html",
+      "scraper_json": null,
+      "generic_json": "allbirds/7db4f40f580b45dfbdc7765d.json",
+      "markdown": "allbirds/7db4f40f580b45dfbdc7765d.md",
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "cb3fd03da8051677e61d439f",
+      "site": "allbirds",
+      "url": "https://www.allbirds.com/products/mens-wool-runners",
+      "html": "allbirds/cb3fd03da8051677e61d439f.html",
+      "scraper_json": null,
+      "generic_json": "allbirds/cb3fd03da8051677e61d439f.json",
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "3b5edc07a594cba0e656392f",
+      "site": "amazon",
+      "url": "https://www.amazon.com/dp/0134685997",
+      "html": "amazon/3b5edc07a594cba0e656392f.html",
+      "scraper_json": "amazon/3b5edc07a594cba0e656392f.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "4cb31d6e18911de1f333a755",
+      "site": "walmart",
+      "url": "https://www.walmart.com/ip/8886020987",
+      "html": "walmart/4cb31d6e18911de1f333a755.html",
+      "scraper_json": "walmart/4cb31d6e18911de1f333a755.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "21ab139f6c132672a9e286b6",
+      "site": "walmart",
+      "url": "https://www.walmart.com/ip/10762707702",
+      "html": "walmart/21ab139f6c132672a9e286b6.html",
+      "scraper_json": "walmart/21ab139f6c132672a9e286b6.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "6a9e552061020240859c89cf",
+      "site": "walmart",
+      "url": "https://www.walmart.com/ip/1095568875",
+      "html": "walmart/6a9e552061020240859c89cf.html",
+      "scraper_json": "walmart/6a9e552061020240859c89cf.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "1a9dec0f4b127338fc8fe579",
+      "site": "allbirds",
+      "url": "https://www.allbirds.com/products/womens-tree-breezers",
+      "html": "allbirds/1a9dec0f4b127338fc8fe579.html",
+      "scraper_json": null,
+      "generic_json": "allbirds/1a9dec0f4b127338fc8fe579.json",
+      "markdown": "allbirds/1a9dec0f4b127338fc8fe579.md",
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "c9532fa5a02436e2b61569c4",
+      "site": "allbirds",
+      "url": "https://www.allbirds.com/products/womens-tree-gliders",
+      "html": "allbirds/c9532fa5a02436e2b61569c4.html",
+      "scraper_json": null,
+      "generic_json": "allbirds/c9532fa5a02436e2b61569c4.json",
+      "markdown": "allbirds/c9532fa5a02436e2b61569c4.md",
+      "original_status": 200,
+      "cb_status": 200
+    },
+    {
+      "rid": "943020c26c5d426184ce3792",
+      "site": "amazon",
+      "url": "https://www.amazon.com/dp/0134757599",
+      "html": "amazon/943020c26c5d426184ce3792.html",
+      "scraper_json": "amazon/943020c26c5d426184ce3792.json",
+      "generic_json": null,
+      "markdown": null,
+      "original_status": 200,
+      "cb_status": 200
+    }
+  ]
+}

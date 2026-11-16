@@ -1,0 +1,179 @@
+{
+  "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+  "price": "$27.24",
+  "originalPrice": "$59.99",
+  "rawPrice": 27.24,
+  "currency": "$",
+  "canonicalUrl": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+  "soldBy": {
+    "sellerID": "",
+    "name": "Amazon.com Amazon.com Shipper / Seller Amazon.com",
+    "link": "https://www.amazon.com"
+  },
+  "deliveredBy": "Saturday, November 21",
+  "parentAsin": [
+    "B001GTWCJG"
+  ],
+  "asinVariationValues": [],
+  "isPrime": true,
+  "inStock": true,
+  "maximumQuantity": "17",
+  "stockDetail": "In Stock",
+  "couponInfo": "",
+  "dealBadge": "",
+  "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41nUxzDHD-L.jpg",
+  "images": [
+    "https://images-na.ssl-images-amazon.com/images/I/41ilIvkZwIL.jpg",
+    "https://images-na.ssl-images-amazon.com/images/I/41ItUis2hXL.jpg",
+    "https://images-na.ssl-images-amazon.com/images/I/41dRp58BEpL.jpg",
+    "https://images-na.ssl-images-amazon.com/images/I/41q3nUo0VVL.jpg",
+    "https://m.media-amazon.com/images/I/61SHQn1VAEL._SX35_SY46.jpg"
+  ],
+  "imagesCount": 6,
+  "highResolutionImages": [
+    "https://m.media-amazon.com/images/I/71nj3JM-igL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ZOGVe8EfL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719gO3NtNfL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71uOhyobL1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/816ttWYheVL._SL1500_.jpg"
+  ],
+  "videos": [],
+  "videosCount": 0,
+  "productGuidesAndDocuments": {
+    "productDocumentationLink": "",
+    "userManualLink": ""
+  },
+  "byLineInfo": {
+    "name": "Robert C. Martin",
+    "link": "https://www.amazon.com/Robert-C-Martin/e/B000APG87E/ref=dp_byline_cont_book_1"
+  },
+  "brand": "",
+  "merchantInfo": "Ships from and sold by Seattlegoodwill.",
+  "customerReview": "4.7 out of 5 stars",
+  "customerReviewCount": 6819,
+  "boughtInfo": "",
+  "answeredQuestionsCount": 0,
+  "editorialReviews": [
+    "Editorial Reviews From the Back Cover Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way. Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code \u201con the fly\u201d into a book that will instill within you the values of a software craftsman and make you a better programmer\u2015but only if you work at it. What kind of work will you be doing? You'll be reading code\u2015lots of code. And you will be challenged to think about what's right about that code, and what's wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft. Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code\u2015of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and \u201csmells\u201d gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code. Readers will come away from this book understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good classes How to format code for maximum readability How to implement complete error handling without obscuring code logic How to unit test and practice test-driven developmentThis book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code. About the Author Robert C. \u201cUncle Bob\u201d Martin has been a software professional since 1970 and an international software consultant since 1990. He is founder and president of Object Mentor, Inc., a team of experienced consultants who mentor their clients worldwide in the fields of C++, Java, C#, Ruby, OO, Design Patterns, UML, Agile Methodologies, and eXtreme programming."
+  ],
+  "warrantyMessage": "",
+  "shippingMessage": "",
+  "deliveryMessages": [
+    "FREE delivery Saturday, November 21 on orders shipped by Amazon over $35",
+    "FREE delivery Saturday, November 21 on orders shipped by Amazon over $35",
+    "Or Prime members get FREE delivery Today 2 PM - 6 PM. Order within 2 hrs 19 mins. Join Prime",
+    "$3.99 delivery November 24 - 30",
+    "$3.99 delivery November 24 - 30.",
+    "Or fastest delivery November 20 - 24."
+  ],
+  "climatePledgeFriendly": {
+    "present": false,
+    "details": ""
+  },
+  "features": "",
+  "classifiedFacts": [],
+  "description": "Even bad code can function. But if code isn\u2019t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn\u2019t have to be that way. Noted software expert Robert C. Martin, presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin, who has helped bring agile principles from a practitioner\u2019s point of view to tens of thousands of programmers, has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code \u201con the fly\u201d into a book that will instill within you the values of software craftsman, and make you a better programmer\u2015but only if you work at it. What kind of work will you be doing? You\u2019ll be reading code\u2015lots of code. And you will be challenged to think about what\u2019s right about that code, and what\u2019s wrong with it. More importantly you will be challenged to reassess your professional values and your commitment to your craft. Clean Codeis divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code\u2015of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and \u201csmells\u201d gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code. Readers will come away from this book understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good classes How to format code for maximum readability How to implement complete error handling without obscuring code logic How to unit test and practice test-driven development What \u201csmells\u201d and heuristics can help you identify bad codeThis book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code. Read more",
+  "breadCrumbs": [
+    {
+      "name": "Books",
+      "link": "https://www.amazon.com/books-used-books-textbooks/b/ref=dp_bc_1?ie=UTF8&node=283155"
+    },
+    {
+      "name": "Computers & Technology",
+      "link": "https://www.amazon.com/Computers-Technology-Books/b/ref=dp_bc_2?ie=UTF8&node=5"
+    },
+    {
+      "name": "Programming",
+      "link": "https://www.amazon.com/Programming-Computers-Internet-Books/b/ref=dp_bc_3?ie=UTF8&node=3839"
+    },
+    {
+      "name": "Software Design, Testing & Engineering",
+      "link": "https://www.amazon.com/Software-Design-Programming-Books/b/ref=dp_bc_4?ie=UTF8&node=4011"
+    },
+    {
+      "name": "Software Development",
+      "link": "https://www.amazon.com/Software-Development-Design-Programming-Books/b/ref=dp_bc_5?ie=UTF8&node=4016"
+    }
+  ],
+  "productInformation": [
+    {
+      "name": "ASIN \u200f",
+      "value": "\u200e 0132350882"
+    },
+    {
+      "name": "Publisher \u200f",
+      "value": "\u200e Pearson"
+    },
+    {
+      "name": "Publication date \u200f",
+      "value": "\u200e August 1, 2008"
+    },
+    {
+      "name": "Edition \u200f",
+      "value": "\u200e 1st"
+    },
+    {
+      "name": "Language \u200f",
+      "value": "\u200e English"
+    },
+    {
+      "name": "Print length \u200f",
+      "value": "\u200e 464 pages"
+    },
+    {
+      "name": "ISBN-10 \u200f",
+      "value": "\u200e 9780132350884"
+    },
+    {
+      "name": "ISBN-13 \u200f",
+      "value": "\u200e 978-0132350884"
+    },
+    {
+      "name": "Item Weight \u200f",
+      "value": "\u200e 1.73 pounds"
+    },
+    {
+      "name": "Dimensions \u200f",
+      "value": "\u200e 6.8 x 0.9 x 9 inches"
+    },
+    {
+      "name": "Part of series \u200f",
+      "value": "\u200e Robert C. Martin Series"
+    },
+    {
+      "name": "Best Sellers Rank",
+      "value": "#74,908 in Books (See Top 100 in Books) #14 in Software Testing #18 in Software Design & Engineering #32 in Software Development (Books)"
+    },
+    {
+      "name": "Customer Reviews",
+      "value": "4.7 4.7 out of 5 stars (6,819)"
+    }
+  ],
+  "manufacturerProductDescription": [
+    "From the Preface of \"Clean Architecture\" \u201c\u2026The rules of software architecture are the rules of ordering and assembling the building blocks of programs. And since those building blocks are universal and haven\u2019t changed, the rules for ordering them are likewise universal and changeless. But one thing has changed: Back then, we didn\u2019t know what the rules were. Consequently, we broke them, over and over again. Now, with half a century of experience behind us, we have a grasp of those rules. And it is those rules\u2014those timeless, changeless, rules\u2014that this book is all about.\u201d \u2014 Robert C. \"Uncle Bob\" Martin",
+    "Clean Code: A Handbook of Agile Software Craftsmanship The Clean Code: Practical Advices for the Professional Programmer Clean Craftsmanship: Desciplines, Standards, and Ethics Clean Agile: Back to Basics Clean Architecture: A Craftsman's Guide to Software Structure and Design Add to Cart Add to Cart Add to Cart Add to Cart Add to Cart Customer Reviews 4.7 out of 5 stars 6,819 4.6 out of 5 stars 2,294 4.5 out of 5 stars 195 4.6 out of 5 stars 630 4.6 out of 5 stars 4,070 Price $27.24$27.24 $26.20$26.20 $52.39$52.39 $25.57$25.57 $30.29$30.29 Best agile practices of cleaning code \u201con the fly\u201d Software Craftsmanship. Endure and succeed amidst swirling uncertainty and nonstop pressure. Picks up where Clean Code leaves off, outlining additional ways to write quality and trusted code you can be proud of every day. A clear and concise guide to basic Agile values and principles. Perfect for those new to Agile methods and long-time developers who want to simplify approaches for the better. Direct, no-nonsense answers to key architecture and design questions. \"It is the best pragmatic application of Lean principles to software I have ever seen in print.\" \u2014James O. Coplien, Founder of the Pasteur Organizational Patterns project \u201cSome technical books inspire and teach; some delight and amuse. Rarely does a technical book do all four of these things.\u201d \u2014 George Bullock \". . . [A] timely and humble reminder of the ever-increasing complexity of our programmatic world and how we owe it to the legacy of humankind--and to ourselves--to practice ethical development.\u201d \u2014 Stacia Heimgartner Viscardi, CST & Agile Mentor \u201cWhat is in the world of Agile development is nothing compared to what could be. This book is Bob\u2019s perspective on what to focus on to get to that \u2018what could be.\u2019 And he\u2019s been there, so it\u2019s worth listening.\u201d \u2014 Kent Beck \"A good architecture comes from understanding it more as a journey than as a destination, more as an ongoing process of enquiry than as a frozen artifact.\" \u2014 Kevlin Henney",
+    "Pick Up Where Clean Code Leaves Off \"As software developers, we have to continually solve important problems for our employers, customers, colleagues, and future selves. Getting the app to work, though difficult, is not enough, it does not make you a craftsman. With an app working, you have passed the app-titude test. You may have the aptitude to be a craftsman, but there is more to master. In these pages, Bob expresses clearly the techniques and responsibilities to go beyond the app-titude test and shows the way of the serious software craftsman.\" \u2014 James Grenning, author of Test-Driven Development for Embedded C and Agile Manifesto co-author"
+  ],
+  "manufacturerProductImages": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/48fb3b3f-deb1-4a43-bca0-be4e6e369b15.__CR200,0,1200,1200_PT0_SX300_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d09f5e02-9a4f-4051-924a-d1512bb366fc.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/80ac0c4f-e7ce-45c5-b713-46a979e1635f.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d8c3673-4834-491f-81c5-86bf51b6648a.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0709ba8b-6d43-4d25-8282-74020680cb89.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/56d3d837-afc3-4cdb-a767-4de4ff5fa019.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d14a5d52-f4f3-4f67-b4c9-3c75acb82417.__CR0,0,1595,1595_PT0_SX300_V1___.png"
+  ],
+  "sponsoredAds": [],
+  "productReviewBottom": [],
+  "productReviewTop": {
+    "5 star": "79%",
+    "4 star": "14%",
+    "3 star": "4%",
+    "2 star": "1%",
+    "1 star": "2%"
+  },
+  "reviews": [],
+  "otherSellers": [],
+  "brandVideo": "",
+  "otherVideos": []
+}

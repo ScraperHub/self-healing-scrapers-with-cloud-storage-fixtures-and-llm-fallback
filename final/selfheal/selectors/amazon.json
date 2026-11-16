@@ -1,0 +1,7 @@
+{
+  "title": "#productTitle",
+  "price": ".a-price .a-offscreen",
+  "availability": "#availability",
+  "brand": "#bylineInfo",
+  "sku": "#ASIN"
+}
